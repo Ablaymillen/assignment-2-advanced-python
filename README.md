@@ -10,7 +10,7 @@ You can either install each module specified in requirments one by one separatel
 * The app using celenium library in order to retrieve data from top 100 Ethereum addresses by ETH Balance
 * The data then is analyzed by the Charts.js js framework and visuallized into charts
 * THe home page will show 3 types of the chart:
-  -1. Bar chart
-  -2. Line char
-  -3. Pie chart
+   -  Bar chart
+   -  Line char
+   - Pie chart
 
