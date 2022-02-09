@@ -18,9 +18,9 @@ You can either install each module specified in requirments one by one separatel
 ### Example
 Ather running ```python manage,py runserver``` to launch the app, open the browser and go to ```localhost``` route.
 The welcoming home page displays 3 different charts.
-- Bar chart
+#### Bar chart
 ![This is an image](https://cdn.discordapp.com/attachments/540499123053396013/941005151660023818/unknown.png)
-- Line chart
+#### Line chart
 ![This is an image](https://cdn.discordapp.com/attachments/540499123053396013/941005152364679258/unknown.png)
-- Pie chart
+#### Pie chart
 ![This is an image](https://cdn.discordapp.com/attachments/540499123053396013/941005152066895902/unknown.png)
