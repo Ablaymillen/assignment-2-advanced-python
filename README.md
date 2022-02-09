@@ -1,5 +1,6 @@
 # assignment-2-advanced-python
 ## Visualizing Blockchain analytics tool with Django + Charts.js
+The application visualizes top 100 Ethereum addresses by their balance and showing 3 types of charts: Pie Chart, Bar Chart and Linear Chart
 
 ### Installation 
 You can either install each module specified in requirments one by one separately or type in your shell ```pip install -r requirements.txt```.
